@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/watery-lab.gif?v=acs" width="1100" alt="WateryMarker's personal lab: a floating code droplet, orbiting particles, flowing waves, and a typing terminal. ACS at KMUTT, Bangkok, Thailand." />
+  <img src="./assets/watery-lab-acs.gif" width="1100" alt="WateryMarker's personal lab: a floating code droplet, orbiting particles, flowing waves, and a typing terminal. ACS at KMUTT, Bangkok, Thailand." />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Have an idea to share? [Drop me a message](mailto:wapakpet28@gmail.com).
 <details>
 <summary>🌊 A still moment — view the banner without animation</summary>
 <br />
-<img src="./assets/watery-lab-static.png?v=acs" width="1100" alt="Still version of the WateryMarker banner: a code droplet and ocean waves." />
+<img src="./assets/watery-lab-acs.png" width="1100" alt="Still version of the WateryMarker banner: a code droplet and ocean waves." />
 </details>
 
 <br />
