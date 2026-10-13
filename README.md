@@ -1,21 +1,85 @@
-
-===========================================================================================================================================
-
-Student
--------
-
-CS major student from KMUTT in Thailand
-
-* 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [wapakpet28@gmail.com](mailto:wapakpet28@gmail.com)
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  <img src="./assets/watery-lab.gif" width="1100" alt="WateryMarker's personal lab: a floating code droplet, orbiting particles, flowing waves, and a typing terminal. CS at KMUTT, Bangkok, Thailand." />
 </p>
 
-### Socials
+<p align="center">
+  <a href="mailto:wapakpet28@gmail.com"><img src="./assets/email.svg" width="145" height="36" alt="Say hello by email" /></a>
+  &nbsp;
+  <a href="https://github.com/WateryMarker?tab=repositories"><img src="./assets/projects.svg" width="195" height="36" alt="Explore my repositories" /></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/WateryMaker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="center"><b>สวัสดี 👋 I'm WateryMarker.</b><br />
+A computer science student at <b>KMUTT</b>, based in <b>Bangkok, Thailand</b>.<br />
+From useful websites to playful AI apps and tiny simulated worlds.</p>
 
+### 01 / A few things I've built
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+#### 🌲 [Quiet Stream](https://github.com/WateryMarker/Fun-Env)
+
+A living 3D forest: changing weather, growing plants, and autonomous wildlife in a native macOS world.
+
+`C++` `SceneKit` `Metal`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🍔 [FAT-GPT](https://github.com/WateryMarker/fat-gpt)
+
+A Thai AI chat app with Windows XP nostalgia, a hungry pixel character, and a kitchen minigame.
+
+`Python` `Tkinter` `Ollama`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💸 [MindMyMoney](https://github.com/WateryMarker/mymindmoney)
+
+Making loan concepts easier to explore with financial education and interactive repayment calculators.
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗳️ [Vote System](https://github.com/WateryMarker/Vote-System)
+
+A school popular-vote website — and the project where my Git journey began.
+
+`Web` `School project` `First steps with Git`
+
+</td>
+</tr>
+</table>
+
+### 02 / My toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `C` `C++` `Java` `Python` `JavaScript` `PHP` `Swift` |
+| **Web & data** | `HTML` `CSS` `MySQL` |
+| **Development** | `Git` `Docker` `VS Code` `macOS` |
+| **Creative & hardware** | `Blender` `Arduino` `Raspberry Pi` |
+
+### 03 / Beyond the code
+
+The projects here connect a few of my favorite things: practical tools, playful interfaces, and worlds that feel alive. This is my little corner to learn, experiment, and turn ideas into something you can use.
+
+Have an idea to share? [Drop me a message](mailto:wapakpet28@gmail.com).
+
+<details>
+<summary>🌊 A still moment — view the banner without animation</summary>
+<br />
+<img src="./assets/watery-lab-static.png" width="1100" alt="Still version of the WateryMarker banner: a code droplet and ocean waves." />
+</details>
+
+<br />
+
+<p align="center">
+  <img src="./assets/footer.svg" width="1100" alt="Keep learning. Keep building. Make a little ripple." />
+</p>
