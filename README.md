@@ -8,7 +8,7 @@
   <a href="https://github.com/WateryMarker?tab=repositories"><img src="./assets/projects.svg" width="195" height="36" alt="Explore my repositories" /></a>
 </p>
 
-<p align="center"><b>สวัสดี 👋 I'm WateryMarker.</b><br />
+<p align="center"><b>Haloooooo 👋 I'm WateryMarker.</b><br />
 A computer science student at <b>KMUTT</b>, based in <b>Bangkok, Thailand</b>.<br />
 From useful websites to playful AI apps and tiny simulated worlds.</p>
 
