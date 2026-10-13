@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><b>Haloooooo 👋 I'm WateryMarker.</b><br />
-A computer science student at <b>KMUTT</b>, based in <b>Bangkok, Thailand</b>.<br />
+An Applied Computer Science (ACS) student at <b>KMUTT</b>, based in <b>Bangkok, Thailand</b>.<br />
 From useful websites to playful AI apps and tiny simulated worlds.</p>
 
 ### 01 / A few things I've built
