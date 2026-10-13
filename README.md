@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/watery-lab.gif" width="1100" alt="WateryMarker's personal lab: a floating code droplet, orbiting particles, flowing waves, and a typing terminal. CS at KMUTT, Bangkok, Thailand." />
+  <img src="./assets/watery-lab.gif" width="1100" alt="WateryMarker's personal lab: a floating code droplet, orbiting particles, flowing waves, and a typing terminal. ACS at KMUTT, Bangkok, Thailand." />
 </p>
 
 <p align="center">
